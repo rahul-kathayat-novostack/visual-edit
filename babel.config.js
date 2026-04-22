@@ -1,7 +1,7 @@
 module.exports = {
     presets: ["next/babel"],
     plugins: [
-        "./babel-plugins/add-debug-attributes.js"
+        "./visual-editor/babel/add-debug-attributes.js"
     ]
 };
 // Trigger reload
